@@ -10,7 +10,7 @@ df = pd.DataFrame({"x": np.array([1,2,3]), "y": np.array([2, 5 ,1])}    )
 
 print(df)
 
-plt.plot(df["x"]  , df["y"])
+plt.plot(df["x"], df["y"])
 
 
 plt.show()
@@ -19,4 +19,4 @@ plt.show()
 
 
 
-print("hejsan"  )
+print("hejsan")
